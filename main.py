@@ -84,6 +84,7 @@ def coffee_machine():
                 resources["coffee"] -= coffee_needed
                 print(f"Here is your {user_choice}. Enjoy!")
 
+# runs coffe_machine()
 coffee_machine()
 
 
